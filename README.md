@@ -155,7 +155,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Floodnut"><img src="https://avatars.githubusercontent.com/u/15941204?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Floodnut</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/cobolnet"><img src="https://avatars.githubusercontent.com/u/82963112?v=4?s=100" width="100px;" alt=""/><br /><sub><b>cobolne</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/cobolnet"><img src="https://avatars.githubusercontent.com/u/82963112?v=4?s=100" width="100px;" alt=""/><br /><sub><b>cobolnet</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/nsih"><img src="https://avatars.githubusercontent.com/u/81147612?v=4?s=100" width="100px;" alt=""/><br /><sub><b>nsih</b></sub></a><br /></td>
   </tr>
 </table>
