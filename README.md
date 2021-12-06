@@ -146,6 +146,9 @@ Python 3.8 이상이 설치된 환경
 
 
 ## Contributors ✨
+이전 개발 기록 확인은? 
+https://github.com/students16/2021crypto
+
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
