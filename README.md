@@ -23,7 +23,7 @@ Conference
 </div>
  
 ## Description   
- 스도쿠 퍼즐은 9x9의 크기의 칸을 각 행, 열 그리고 3x3의 박스에 숫자를 1부터 9까지 중복되지 않게 입력하여 완성하는 퍼즐입니다.
+ 스도쿠 퍼즐은 9x9의 크기의 칸을 각 행, 열 그리고 3x3의 박스에 숫자를 1부터 9까지 중복되지 않게 입력하여 완성하는 퍼즐입니다.   
 이 스도쿠 퍼즐을 16x16 크기로 확장한 헥사 도쿠에서 아이디어를 얻어 암호 알고리즘을 만들었습니다.
 
 
@@ -74,7 +74,7 @@ This is Key!
 
 ## Decryption
 ```bash
-python3 Decryption.py
+python3 decryption.py
 ```
 
 ```bash
